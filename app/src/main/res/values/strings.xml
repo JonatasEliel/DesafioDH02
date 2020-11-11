@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">DesafioDHAndroidCore</string>
+    <string name="app_name">Digital House Foods</string>
+
+    <!-- Action Bar Names -->
+    <string name="login_activity">Digital House Foods</string>
+
 </resources>
