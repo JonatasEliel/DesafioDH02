@@ -3,6 +3,7 @@
 
     <!-- ACTION BAR NAMES -->
     <string name="login_activity">Digital House Foods</string>
+    <string name="register_activity">Register</string>
 
     <!-- LOGIN ACTIVITY -->
     <string name="til_label_email">E-mail</string>
