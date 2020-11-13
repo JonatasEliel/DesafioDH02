@@ -1,10 +1,11 @@
-package br.com.digitalhouse.desafiodhandroidcore
+package br.com.digitalhouse.desafiodhandroidcore.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
+import br.com.digitalhouse.desafiodhandroidcore.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
