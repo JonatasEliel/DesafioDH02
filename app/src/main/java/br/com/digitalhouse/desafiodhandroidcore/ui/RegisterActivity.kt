@@ -25,7 +25,6 @@ class RegisterActivity : AppCompatActivity() {
     private fun setUpOnClickListeners() {
         regActBtnRegister.setOnClickListener {
             val intent = Intent(this, HomeActivity::class.java)
-            intent.putExtra("key", getUserInfo())
             startActivity(intent)
         }
     }

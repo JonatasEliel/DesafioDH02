@@ -15,4 +15,9 @@
     <!-- BUTTONS -->
     <color name="colorButtonLogin">#FF5252</color>
     <color name="colorButtonRegister">#8492A6</color>
+
+    <!-- TEXT VIEWS -->
+    <color name="colorRestaurantName">#1F2D3D</color>
+    <color name="colorRestaurantInfo">#8492A6</color>
+    <color name="colorMealName">#5A6978</color>
 </resources>
