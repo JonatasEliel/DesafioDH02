@@ -4,7 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.MainActivity"
-    android:background="@drawable/splash_screen">
+    android:background="#DDDDDD"
+    tools:context=".ui.HomeActivity">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/homActRvRestaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        tools:listitem="@layout/card_restaurant" />
 </androidx.constraintlayout.widget.ConstraintLayout>
